@@ -1,0 +1,19 @@
+# Crazy Pricing
+
+I'm constantly amazed by the wishful thinking that goes into price setting decisions. If you read the HN comments, there's almost a universal attitude that "your price is too low". They really believe that whatever your current price is, you would be better off charging two, three, or even five times that amount. Which is strange, because that would apply to the companies that just doubled price, so there's apparently no end to the price increases customers are willing to pay.
+
+Just yesterday, I saw a bookmark service on HN for $55/year. The creator said they're not making much money. No surprise. Pinboard is $11/year for the basic service, or $25/year for an account that fully archives every item you bookmark. This service, which nobody knows and doesn't appear to offer anything more, wants to enter the market at a price of more than double the established incumbent. There's an old saying where I'm from: "That's not how this works. That's not how any of this works."
+
+So I did what I probably shouldn't. I replied to one of the creator's comments to ask where the pricing came from, and brought up that it was five times Pinboard's basic rate. Predictably, there was no response.
+
+I hate to say it, but a lot of wishful thinking goes into these decisions. Common sense tells you that you first look at what competitors are charging before you decide how much you should charge. Instead, they talk about things like "what it's worth to the customer". That's utter nonsense. Again, that's not how any of this works.
+
+I have a history of asking these questions. A few weeks ago I asked another founder what value they provide that's worth $30/month. As is usually the case, there was no response. I wonder if these "business" folk realize that every single potential customer is asking the same question before every purchase decision. If you're starting a business and you can't answer that question, there is no reason for your business to exist. You *have to* be able to answer that question.
+
+I remember getting an answer once, for some outrageously priced product that looked interesting, but it was basically "How dare you ask that question - and by the way, f*** you!"
+
+Here's the deal. When you're in business, the key thing is to get other people to hand you their money. As in, if you can't do that, you're not in business. That's the thing that makes business so hard. You may have a great product. It's probably not half as great as the inflated view you have of it, but it might nonetheless provide some value. Good luck getting someone to part with their hard-earned money.
+
+There's another thing that can fool you. Your family and friends might buy from you to be nice. Maybe even people you've dealt with before in a business setting. A few people might buy because they like what you're trying to do. That's not a business, it's charity. If that's all the revenue you have, you haven't achieved anything, because you haven't convinced anyone to pay you money for your product. You've convinced your parents to give you money because they want to show their support, or you've created an outlet for people to express support for their pet causes.
+
+Why should I pay you [price]? *Before* you set the price, have a very good answer *relative to the competition*. Write down your stories about how much your product is worth to the customer, burn the stories, and never think about them again. Because you don't convince someone to give you their money based on what it's worth to them. Maybe you're not thinking in terms of the competition, but the people you're selling to sure are, and the competition is much broader than just the companies doing exactly what you're doing. There are many ways for me to spend my cash. If I buy your product, I'm giving up something else. Believe it or not, life will go on if I don't have what you're selling.
